@@ -1,0 +1,32 @@
+.color_nav{
+    background-color: #16AFAC;
+    color: white;
+    
+}
+
+.logo{
+    width: 50px;
+    color: white;
+    
+}
+.efect_button ul li a:hover{
+    background: white;
+    padding: 10px 30px;
+    color: #16AFAC;
+    border-radius:20px;
+}
+.bg_color{
+    width: 100%;
+    height: 20%;
+    background: #16AFAC;
+    position: absolute;
+}
+.wave{
+    width: 100%;
+    position: absolute;
+    top: 80px;
+}
+
+
+
+
